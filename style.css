@@ -1,0 +1,47 @@
+h1 {
+    font-family: italic;
+    }
+body {
+    background-color: rgb(225,227,230);
+    }
+#descricao {
+        font: monospace;
+}
+.lista1 {
+    font-size: 20px;
+}
+.lista2 {
+    font-size: 15px
+}
+.lista3 {
+    font-size: 15px
+}
+#container{
+    height: 265px;
+}
+   
+div{
+    border: 2px solid rgb(83, 151, 83);
+}
+#me{
+    float: left;
+    height: 250px;
+    padding: 10px;
+    background-color: black;
+}
+h1 {
+    text-align: center;
+}
+.lista1 {
+    padding: 10px;
+    background-color:rgb(238, 150, 91);
+    border: 5px;
+    border-color: black;
+}
+.lista3 {
+
+    padding: 10px;
+    background-color: rgb(238, 150, 91);
+    border: 5px;
+    border-color: black;
+}
